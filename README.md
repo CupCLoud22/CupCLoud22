@@ -1,4 +1,4 @@
-# Hi! I'm Dani.
+## Hi! I'm Dani.
 - 👀 I’m interested in Back-End, Git source control and JavaScript.
 - 🌱 I’m currently learning at STMIK AMIK Bandung.
 - 💞️ I’m looking to collaborate on ...
