@@ -1,8 +1,6 @@
 ## Hi! I'm Dani.
 - 👀 I’m interested in Back-End, Git source control and JavaScript.
 - 🌱 I’m currently learning at STMIK AMIK Bandung.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 CupCLoud22/CupCLoud22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
