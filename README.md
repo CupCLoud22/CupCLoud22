@@ -7,9 +7,11 @@ Back End developer :
 - Java Spring Boot
 - Nest Js
 - Express JS
+  
 Front End web developer : 
 - React Js
 - Angular
+  
 Database :
 - MySQL
 - PostgreSQL
