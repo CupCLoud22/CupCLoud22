@@ -1,17 +1,18 @@
 ## Hi! I'm Dani.
 Bachelor Computer Science/Informatics 
 
-I am a Full Stack Developer with basic skills in software development and the ability to build simple applications or systems using known programming languages, detail oriented, fast learner, organized and meticulous person. Enthusiasm for work, and ready to work under pressure to achieve company targets. I enjoy learning and discovering new things. Highly Initiative and self-motivated. My passion is world of technology and I look forward to future technological advances.
+I'm a Programmer with skills in Software Development and the ability to build applications using programming languages, detail oriented, fast learner, organized and meticulous person. Enthusiastic about work, and ready to work under pressure to achieve company targets. I love to learn and discover new things. Highly initiative and motivated. My passion is the world of technology and I look forward to the advancement of technology in the future.
 
-Back-end developer :
-Java Spring Boot
-
-Front-end web developer : 
-React Js
-
+Back End developer :
+- Java Spring Boot
+- Nest Js
+- Express JS
+Front End web developer : 
+- React Js
+- Angular
 Database :
-MySQL
-PostgreSQL
+- MySQL
+- PostgreSQL
 
 <!---
 CupCLoud22/CupCLoud22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
