@@ -3,6 +3,8 @@ Bachelor Computer Science/Informatics
 
 I'm a Programmer with skills in Software Development and the ability to build applications using programming languages, detail oriented, fast learner, organized and meticulous person. Enthusiastic about work, and ready to work under pressure to achieve company targets. I love to learn and discover new things. Highly initiative and motivated. My passion is the world of technology and I look forward to the advancement of technology in the future.
 
+Also, i have more project at GitLab: https://gitlab.com/cupcloud22
+
 Back End developer :
 - Java Spring Boot
 - Nest Js
